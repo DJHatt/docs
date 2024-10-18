@@ -1,4 +1,4 @@
----
+---how to get help with funeral costs and grief
 title: Adding support resources to your project
 intro: You can create a SUPPORT file to let people know about ways to get help with your project.
 redirect_from:
